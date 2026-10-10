@@ -8,3 +8,6 @@ data/bulk-tax-documents/
 .env
 .env.local
 .env.*.local
+.idea
+
+/tasks
